@@ -6,6 +6,13 @@ A web app alternative to stand-up meetings
 .. image:: https://img.shields.io/badge/spawned%20with-Cookiecutter%20Django-ff69b4.svg
      :target: https://github.com/pydanny/cookiecutter-django/
      :alt: Built with Cookiecutter Django
+.. image:: https://travis-ci.org/GeekyShacklebolt/standup.svg?branch=master
+     :target: https://travis-ci.org/GeekyShacklbolt/standup
+     :alt: Continuous Integration with Travis-CI
+.. image:: https://codecov.io/gh/GeekyShacklebolt/standup/branch/master/graph/badge.svg
+     :target: https://codecov.io/gh/GeekyShacklebolt/standup
+     :alt: Code Coverage with Codecov
+
 
 I am thankful to `@CuriousLearner`_ for giving the idea and inspiration to make **standup**.
 
